@@ -59,8 +59,7 @@ FORM
     width:100%;
 
     max-width:400px;      /* 450px se 400px */
-
-    background: rgba(230, 126, 34, 0.85);   /* Transparent */
+    background-color: rgba(230, 126, 34, 0.85);
 
     border-radius:18px;
 
